@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LPage</string>
+
+    <string name="nice_html">
+<![CDATA[
+<html>
+<head>
+</head>
+<body>
+
+<p text-align: center><center><i>Join Prime to watch the latest movies, exclusive TV shows as well as award-winning Amazon Originals at <b>₹999/year</b> only.</i></center></p>
+
+</body>
+]]>
+</string>
+</resources>
